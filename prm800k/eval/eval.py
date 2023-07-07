@@ -3,7 +3,6 @@ from collections import defaultdict
 from typing import Dict, List
 import blobfile as bf
 import gzip
-import orjson
 import json
 import numpy as np
 import argparse
